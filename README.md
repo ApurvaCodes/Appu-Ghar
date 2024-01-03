@@ -22,4 +22,4 @@ Seamless communication with the adventure park through a contact form.
 - ## Technologies Used
 * HTML5
 * CSS3
-* JavaScrit
+* JavaScript
